@@ -1,2 +1,2 @@
-# term-utils
+# bin-term
 Various terminal utilities
